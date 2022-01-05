@@ -1,0 +1,65 @@
+{
+  "id": "2987781",
+  "name": "demo01",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1605779",
+      "name": "个人",
+      "font_class": "my",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "7325965",
+      "name": "删除_",
+      "font_class": "shanchu_",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "10148100",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12990742",
+      "name": "人",
+      "font_class": "ren-",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "6844457",
+      "name": "睁眼",
+      "font_class": "zhengyan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "15958926",
+      "name": "闭眼",
+      "font_class": "biyan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "8106224",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "8106260",
+      "name": "upward",
+      "font_class": "upward",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    }
+  ]
+}
